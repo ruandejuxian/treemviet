@@ -1,0 +1,231 @@
+@media screen and (max-width: 1064px) {
+  body {
+    font-size: 14px; }
+
+  .menu ul li a {
+    padding: 10px 9px; }
+  .menu .search {
+    margin-top: 9px; }
+    .menu .search .fa {
+      font-size: 18px; } }
+@media screen and (max-width: 1024px) {
+  .wrapper-home #section-4 .thumbnail img {
+    height: 120px; }
+  .wrapper-home #section-7 .thumbnail img {
+    height: 120px; } }
+@media screen and (max-width: 767px) {
+  .title {
+    font-size: 17px; }
+
+  .heading {
+    font-size: 15px; }
+
+  .main-home .thumbnail img {
+    height: 70px; }
+  .main-home .image-thumbnail img {
+    height: 220px; }
+
+  .menu .search {
+    margin-top: 17px; }
+  .menu .navbar-toggle {
+    float: left; }
+    .menu .navbar-toggle .icon-bar {
+      width: 25px;
+      height: 3px;
+      background: #fff; }
+
+  .wrapper-home #section-3 .heading {
+    margin: 0 0 15px; }
+  .wrapper-home #section-3 .post-thumb {
+    margin-bottom: 15px;
+    overflow: auto; }
+    .wrapper-home #section-3 .post-thumb .image-thumbnail {
+      width: 50%;
+      float: left;
+      margin-right: 10px; }
+  .wrapper-home #section-3 .item {
+    clear: both;
+    overflow: auto; }
+    .wrapper-home #section-3 .item.item-1 {
+      margin-bottom: 15px; }
+  .wrapper-home #section-3 ul li {
+    width: 50%;
+    clear: none;
+    float: left; }
+  .wrapper-home #section-6 .heading {
+    margin: 0 0 15px; }
+  .wrapper-home #section-6 .post-thumb {
+    margin-bottom: 15px;
+    overflow: auto; }
+    .wrapper-home #section-6 .post-thumb .image-thumbnail {
+      width: 50%;
+      float: left;
+      margin-right: 10px; }
+  .wrapper-home #section-6 .item {
+    clear: both;
+    overflow: auto; }
+    .wrapper-home #section-6 .item.item-1 {
+      margin-bottom: 15px; }
+  .wrapper-home #section-6 ul li {
+    width: 50%;
+    clear: none;
+    float: left; }
+
+  .sidebar .widget-1 img {
+    width: auto; }
+  .sidebar .widget-2 {
+    overflow: auto; }
+    .sidebar .widget-2 ul li {
+      width: 50%;
+      float: left; }
+  .sidebar .widget-3 {
+    overflow: auto; }
+    .sidebar .widget-3 .post-thumb .image-thumbnail {
+      width: 50%; }
+    .sidebar .widget-3 ul li .thumbnail {
+      width: 30%; }
+      .sidebar .widget-3 ul li .thumbnail img {
+        height: 110px; }
+  .sidebar .widget-4 ul li .thumbnail {
+    width: 30%; }
+    .sidebar .widget-4 ul li .thumbnail img {
+      height: 110px; }
+
+  .wrapper .archive-title {
+    font-size: 18px; }
+  .wrapper article .entry-title {
+    font-size: 16px; }
+  .wrapper article .readmore {
+    display: none; }
+  .wrapper article .entry-thumbnail {
+    width: 40%; }
+    .wrapper article .entry-thumbnail img {
+      height: 130px; }
+
+  .single-content .entry-content {
+    font-size: 15px !important; }
+    .single-content .entry-content h2, .single-content .entry-content h3, .single-content .entry-content h4, .single-content .entry-content h5, .single-content .entry-content h6 {
+      font-size: 16px !important; }
+
+  .related-article .related-title {
+    font-size: 18px; }
+
+  #comments .comment-respond #reply-title {
+    font-size: 18px;
+    font-weight: bold; }
+  #comments .comment-form-author {
+    margin-bottom: 10px; } }
+@media screen and (max-width: 480px) {
+  .main-home .thumbnail img {
+    height: 75px; }
+
+  .wrapper-home #section-1 {
+    margin-bottom: 15px; }
+    .wrapper-home #section-1 .col-xs-6 {
+      width: 100%; }
+    .wrapper-home #section-1 ul .thumbnail {
+      width: 30%; }
+  .wrapper-home #section-2 {
+    margin-bottom: 15px; }
+    .wrapper-home #section-2 .col-xs-6 {
+      width: 100%; }
+    .wrapper-home #section-2 .item {
+      margin-bottom: 5px; }
+      .wrapper-home #section-2 .item .thumbnail {
+        width: 30%; }
+  .wrapper-home #section-3 .heading {
+    margin: 15px 0; }
+  .wrapper-home #section-3 .post-thumb .image-thumbnail {
+    width: 100%;
+    margin-right: 0;
+    float: none; }
+  .wrapper-home #section-3 ul li {
+    width: 100%; }
+    .wrapper-home #section-3 ul li .thumbnail {
+      width: 30%; }
+  .wrapper-home #section-4 .item {
+    width: 50%; }
+    .wrapper-home #section-4 .item:nth-child(4) {
+      clear: none; }
+    .wrapper-home #section-4 .item:nth-child(2n + 1) {
+      clear: none; }
+  .wrapper-home #section-5 .image-thumbnail img {
+    height: 120px; }
+  .wrapper-home #section-6 .heading {
+    margin: 15px 0; }
+  .wrapper-home #section-6 .post-thumb .image-thumbnail {
+    width: 100%;
+    margin-right: 0;
+    float: none; }
+  .wrapper-home #section-6 ul li {
+    width: 100%; }
+    .wrapper-home #section-6 ul li .thumbnail {
+      width: 30%; }
+  .wrapper-home #section-7 .item {
+    width: 50%; }
+    .wrapper-home #section-7 .item:nth-child(4) {
+      clear: none; }
+    .wrapper-home #section-7 .item:nth-child(2n + 1) {
+      clear: none; }
+
+  .sidebar .widget-2 ul li {
+    width: 100%;
+    clear: both; }
+  .sidebar .widget-3 .post-thumb .image-thumbnail {
+    width: 100%; }
+
+  .wrapper .archive-title {
+    font-size: 17px; }
+  .wrapper article {
+    margin-bottom: 15px; }
+    .wrapper article .entry-title {
+      font-size: 15px; } }
+@media screen and (max-width: 414px) {
+  .main-home .image-thumbnail img {
+    height: 200px; }
+
+  .sidebar .widget-3 .image-thumbnail img {
+    height: 180px; }
+  .sidebar .widget-3 ul li .thumbnail img {
+    height: 100px; }
+  .sidebar .widget-4 ul li .thumbnail img {
+    height: 100px; } }
+@media screen and (max-width: 375px) {
+  .menu .search #searchform {
+    width: 300px;
+    padding: 10px; }
+    .menu .search #searchform input {
+      width: 200px; }
+    .menu .search #searchform button {
+      padding: 4px; }
+
+  .wrapper article .entry-thumbnail img {
+    height: 120px; } }
+@media screen and (max-width: 320px) {
+  .main-home .image-thumbnail img {
+    height: 160px; }
+
+  .wrapper-home #section-2 .item .thumbnail {
+    width: 40%; }
+  .wrapper-home #section-3 .item .thumbnail {
+    width: 40%; }
+  .wrapper-home #section-4 .thumbnail img {
+    height: 100px; }
+  .wrapper-home #section-5 .item {
+    width: 100%; }
+  .wrapper-home #section-6 .item .thumbnail {
+    width: 40%; }
+  .wrapper-home #section-7 .thumbnail img {
+    height: 100px; }
+
+  .sidebar .widget-3 .image-thumbnail img {
+    height: 160px; }
+  .sidebar .widget-3 ul li .thumbnail {
+    width: 40%; }
+  .sidebar .widget-4 ul li .thumbnail {
+    width: 40%; }
+
+  .wrapper article .entry-thumbnail img {
+    height: 110px; } }
+
+/*# sourceMappingURL=media.css.map */
